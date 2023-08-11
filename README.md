@@ -1,2 +1,2 @@
-# yixuy.github.io
-The personal website 
+# Henry Ye
+This is Henry's website
