@@ -790,6 +790,7 @@
 }
 .fa-linkedin:before {
   content: "\f0e1";
+  color: #007bb6; /* LinkedIn's official brand color */
 }
 .fa-rotate-left:before,
 .fa-undo:before {
